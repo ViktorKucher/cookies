@@ -39,7 +39,7 @@ export const Cookies = () => {
                     </Typography>
                     <Typography component={"p"} sx={styleParagraf}>
                         More info:
-                        <Link href='#'> Cookies Policy</Link>
+                        <Link href='https://github.com/ViktorKucher/cookies/blob/main/README.md'> Cookies Policy</Link>
                     </Typography>
                     <Box sx={styleBoxButton}>
                         <Button onClick={handleClose}  variant="contained" color="error">Decline</Button>
